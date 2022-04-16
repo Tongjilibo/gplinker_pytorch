@@ -1,0 +1,2 @@
+# gplinker_pytorch
+基于bert4torch框架，tplinker的pytorch简洁实现
